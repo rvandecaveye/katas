@@ -3,12 +3,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.fidzit.kata</groupId>
-    <artifactId>ChristmastLight</artifactId>
+    <artifactId>Wardrobe</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ChristmasLight</name>
+    <name>Wardrobe</name>
     <description>Kata training for TDD</description>
     <properties>
         <java.version>17</java.version>
+        <cucumber.version>7.3.4</cucumber.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
     <dependencies>
         <dependency>

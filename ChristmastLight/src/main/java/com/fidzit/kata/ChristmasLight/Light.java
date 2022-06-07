@@ -1,4 +1,4 @@
-package com.fidzit.katas.ChristmasLight;
+package com.fidzit.kata.ChristmasLight;
 
 public class Light {
 
